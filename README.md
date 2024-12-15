@@ -7,4 +7,4 @@ EL **objetivo** es: Identificar cuáles son los productos del menú que han teni
 
 * La **hamburguesa**, **edamame** y **korean beef bowl** se posicionan como los platillos preferidos de los clientes.
 
-* Los tacos de pollo, lasagne y los tacos de bisteck se posicionan como las comidas menos preferidas de los clientes. 
+* Los **tacos de pollo**, **la lasagne** y **los tacos de bisteck** se posicionan como las comidas menos preferidas de los clientes. 
